@@ -15,7 +15,7 @@ function App() {
     datasets: [
       {
         data: [priciple,totalInterest], // Replace with your data values
-        backgroundColor: ['#FF6384',  '#FFCE56'], // Customize colors as needed
+        backgroundColor: ['#FFE0E6',  '#D7ECFB'], // Customize colors as needed
       },
     ],
   };
