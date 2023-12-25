@@ -1,6 +1,20 @@
-.App {
-  text-align: center;
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
 }
+.header{
+  padding:10px;
+  color:white;
+  background-color: rgb(60, 60, 201);
+  font-size: 24px;
+  font-weight: 500;
+}
+input{
+  width: 50%;
+}
+
+
 
 .App-logo {
   height: 40vmin;
